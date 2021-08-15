@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: e0b0400f1710ea0dfacb
+  clientSecret: 4ce1142d5031e2ee1cad9298bb642b496f462184
   repo: Dental-X.github.io
   owner: Dental-X
 
